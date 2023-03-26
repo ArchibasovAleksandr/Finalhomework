@@ -9,4 +9,19 @@ void MethodCreateInputArray(string[] InputArray)
     Console.WriteLine();
 }
 
+void MethodCreateOutputArray(string[] OutputArray)
+{
+    Console.Write($"Output array: ");
+    string[] newarr = new string[OutputArray.Length];
+    for (int i = 0; i < OutputArray.Length; i++)
+    {
+        if (OutputArray[i].Length <= 3)
+        {
+            newarr[i] = OutputArray[i];
+            Console.Write($"{newarr[i]} ");
+        }
+    }
+    Console.WriteLine();
+}
 
+string[] array = { "hello_world", "2", "L0L", ":-)" , "123", "^_^", "wiz"};
