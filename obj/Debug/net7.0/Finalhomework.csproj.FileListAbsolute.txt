@@ -1,0 +1,15 @@
+C:\Users\Archibasov\Desktop\10.02.23\Homeworks\Finalhomework\bin\Debug\net7.0\Finalhomework.exe
+C:\Users\Archibasov\Desktop\10.02.23\Homeworks\Finalhomework\bin\Debug\net7.0\Finalhomework.deps.json
+C:\Users\Archibasov\Desktop\10.02.23\Homeworks\Finalhomework\bin\Debug\net7.0\Finalhomework.runtimeconfig.json
+C:\Users\Archibasov\Desktop\10.02.23\Homeworks\Finalhomework\bin\Debug\net7.0\Finalhomework.dll
+C:\Users\Archibasov\Desktop\10.02.23\Homeworks\Finalhomework\bin\Debug\net7.0\Finalhomework.pdb
+C:\Users\Archibasov\Desktop\10.02.23\Homeworks\Finalhomework\obj\Debug\net7.0\Finalhomework.csproj.AssemblyReference.cache
+C:\Users\Archibasov\Desktop\10.02.23\Homeworks\Finalhomework\obj\Debug\net7.0\Finalhomework.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Archibasov\Desktop\10.02.23\Homeworks\Finalhomework\obj\Debug\net7.0\Finalhomework.AssemblyInfoInputs.cache
+C:\Users\Archibasov\Desktop\10.02.23\Homeworks\Finalhomework\obj\Debug\net7.0\Finalhomework.AssemblyInfo.cs
+C:\Users\Archibasov\Desktop\10.02.23\Homeworks\Finalhomework\obj\Debug\net7.0\Finalhomework.csproj.CoreCompileInputs.cache
+C:\Users\Archibasov\Desktop\10.02.23\Homeworks\Finalhomework\obj\Debug\net7.0\Finalhomework.dll
+C:\Users\Archibasov\Desktop\10.02.23\Homeworks\Finalhomework\obj\Debug\net7.0\refint\Finalhomework.dll
+C:\Users\Archibasov\Desktop\10.02.23\Homeworks\Finalhomework\obj\Debug\net7.0\Finalhomework.pdb
+C:\Users\Archibasov\Desktop\10.02.23\Homeworks\Finalhomework\obj\Debug\net7.0\Finalhomework.genruntimeconfig.cache
+C:\Users\Archibasov\Desktop\10.02.23\Homeworks\Finalhomework\obj\Debug\net7.0\ref\Finalhomework.dll
